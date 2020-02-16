@@ -1,0 +1,8 @@
+# ENV file
+.env
+
+# Executables
+*.exe
+
+github.com
+golang.org
